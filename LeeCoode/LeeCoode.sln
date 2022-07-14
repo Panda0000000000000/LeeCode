@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeeCoode", "LeeCoode.csproj", "{7C847C11-FDBC-4DAD-97FC-72D255D5F319}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "最长回文子串", "..\最长回文子串\最长回文子串.csproj", "{739B02B1-0DA2-439A-B192-12656D3F9CC4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7C847C11-FDBC-4DAD-97FC-72D255D5F319}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C847C11-FDBC-4DAD-97FC-72D255D5F319}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C847C11-FDBC-4DAD-97FC-72D255D5F319}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C847C11-FDBC-4DAD-97FC-72D255D5F319}.Release|Any CPU.Build.0 = Release|Any CPU
+		{739B02B1-0DA2-439A-B192-12656D3F9CC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{739B02B1-0DA2-439A-B192-12656D3F9CC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{739B02B1-0DA2-439A-B192-12656D3F9CC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{739B02B1-0DA2-439A-B192-12656D3F9CC4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {55046511-D61C-4DC1-A2D9-33192B5A19E1}
+	EndGlobalSection
+EndGlobal
