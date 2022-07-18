@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Unity\\UnityProjects\\LeeCode\\LeeCode\\寻找两个有序数组的中位数\\寻找两个有序数组的中位数.csproj",
-      "projectName": "寻找两个有序数组的中位数",
-      "projectPath": "F:\\Unity\\UnityProjects\\LeeCode\\LeeCode\\寻找两个有序数组的中位数\\寻找两个有序数组的中位数.csproj",
+      "projectUniqueName": "F:\\Unity\\UnityProjects\\LeeCode\\寻找两个有序数组的中位数\\03寻找两个有序数组的中位数.csproj",
+      "projectName": "03寻找两个有序数组的中位数",
+      "projectPath": "F:\\Unity\\UnityProjects\\LeeCode\\寻找两个有序数组的中位数\\03寻找两个有序数组的中位数.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "F:\\Unity\\UnityProjects\\LeeCode\\LeeCode\\寻找两个有序数组的中位数\\obj\\",
+      "outputPath": "F:\\Unity\\UnityProjects\\LeeCode\\寻找两个有序数组的中位数\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

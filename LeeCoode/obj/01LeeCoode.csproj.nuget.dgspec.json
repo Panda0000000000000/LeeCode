@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Unity\\UnityProjects\\LeeCode\\寻找两个有序数组的中位数\\寻找两个有序数组的中位数.csproj": {}
+    "F:\\Unity\\UnityProjects\\LeeCode\\LeeCoode\\01LeeCoode.csproj": {}
   },
   "projects": {
-    "F:\\Unity\\UnityProjects\\LeeCode\\寻找两个有序数组的中位数\\寻找两个有序数组的中位数.csproj": {
+    "F:\\Unity\\UnityProjects\\LeeCode\\LeeCoode\\01LeeCoode.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Unity\\UnityProjects\\LeeCode\\寻找两个有序数组的中位数\\寻找两个有序数组的中位数.csproj",
-        "projectName": "寻找两个有序数组的中位数",
-        "projectPath": "F:\\Unity\\UnityProjects\\LeeCode\\寻找两个有序数组的中位数\\寻找两个有序数组的中位数.csproj",
+        "projectUniqueName": "F:\\Unity\\UnityProjects\\LeeCode\\LeeCoode\\01LeeCoode.csproj",
+        "projectName": "01LeeCoode",
+        "projectPath": "F:\\Unity\\UnityProjects\\LeeCode\\LeeCoode\\01LeeCoode.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "F:\\Unity\\UnityProjects\\LeeCode\\寻找两个有序数组的中位数\\obj\\",
+        "outputPath": "F:\\Unity\\UnityProjects\\LeeCode\\LeeCoode\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Unity\\UnityProjects\\LeeCode\\LeeCode\\LeeCoode\\LeeCoode.csproj": {}
+    "F:\\Unity\\UnityProjects\\LeeCode\\LeeCoode\\LeeCoode.csproj": {}
   },
   "projects": {
-    "F:\\Unity\\UnityProjects\\LeeCode\\LeeCode\\LeeCoode\\LeeCoode.csproj": {
+    "F:\\Unity\\UnityProjects\\LeeCode\\LeeCoode\\LeeCoode.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Unity\\UnityProjects\\LeeCode\\LeeCode\\LeeCoode\\LeeCoode.csproj",
+        "projectUniqueName": "F:\\Unity\\UnityProjects\\LeeCode\\LeeCoode\\LeeCoode.csproj",
         "projectName": "LeeCoode",
-        "projectPath": "F:\\Unity\\UnityProjects\\LeeCode\\LeeCode\\LeeCoode\\LeeCoode.csproj",
+        "projectPath": "F:\\Unity\\UnityProjects\\LeeCode\\LeeCoode\\LeeCoode.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "F:\\Unity\\UnityProjects\\LeeCode\\LeeCode\\LeeCoode\\obj\\",
+        "outputPath": "F:\\Unity\\UnityProjects\\LeeCode\\LeeCoode\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
