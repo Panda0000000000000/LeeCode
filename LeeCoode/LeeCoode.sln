@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31702.278
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeeCoode", "LeeCoode.csproj", "{7C847C11-FDBC-4DAD-97FC-72D255D5F319}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeeCoode", "LeeCoode.csproj", "{7C847C11-FDBC-4DAD-97FC-72D255D5F319}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "最长回文子串", "..\最长回文子串\最长回文子串.csproj", "{739B02B1-0DA2-439A-B192-12656D3F9CC4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "最长回文子串", "..\最长回文子串\最长回文子串.csproj", "{739B02B1-0DA2-439A-B192-12656D3F9CC4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "寻找两个有序数组的中位数", "..\寻找两个有序数组的中位数\寻找两个有序数组的中位数.csproj", "{12218027-AD55-4376-A6BC-070FCC712A4A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{739B02B1-0DA2-439A-B192-12656D3F9CC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{739B02B1-0DA2-439A-B192-12656D3F9CC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{739B02B1-0DA2-439A-B192-12656D3F9CC4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12218027-AD55-4376-A6BC-070FCC712A4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12218027-AD55-4376-A6BC-070FCC712A4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12218027-AD55-4376-A6BC-070FCC712A4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12218027-AD55-4376-A6BC-070FCC712A4A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
