@@ -1,7 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.IO;
-using System.Text;
 
 namespace 最长回文子串
 {
@@ -11,64 +8,111 @@ namespace 最长回文子串
         {
             Console.WriteLine("Hello World!");
 
-            LongestPalindrome("a");
+            LongestPalindrome_1("cbbd");
 
             Console.ReadKey();
         }
 
-        public static string LongestPalindrome(string s)
+        //暴力求解
+        public static string LongestPalindrome_1(string s)
         {
-            StringBuilder stringBuilder = new StringBuilder();
-            StringBuilder stringBuilder_Cache = new StringBuilder();
-            string str_Resault="";
-
-            Dictionary<char, int> dic_Now = new Dictionary<char, int>();
-            Dictionary<char, int> dic_Now_CacheBuilderIndex = new Dictionary<char, int>();
-
-            char[] s_Chars = s.ToCharArray();
-            for (int int_Currindex = 0; int_Currindex < s_Chars.Length; int_Currindex++)
+            int len = s.Length;
+            if (len<=2)
             {
-                if (stringBuilder[0] == s_Chars[int_Currindex])
+                return s;
+            }
+
+            char[] charArr= s.ToCharArray();
+
+            int maxLen = 0;
+            int begin = 0;
+            for (int i = 0; i < charArr.Length-2; i++)
+            {
+                for (int j = 0; j < charArr.Length; j++)
                 {
-                    stringBuilder.Append(s_Chars[int_Currindex]);
-
-                    stringBuilder_Cache = stringBuilder_Cache.Length < stringBuilder.Length ? stringBuilder : stringBuilder_Cache;
-                    str_Resault = stringBuilder_Cache.ToString();
-
-
-
-                    if (stringBuilder[0] == s_Chars[int_Currindex])
+                    if (j-i>maxLen && Judge_IsStrBack(charArr,i,j))
                     {
+                        begin = i;
+                        maxLen = j + 1;
+                    }
+                }
+            }
+
+            return s.Substring(begin, maxLen);
+
+            bool Judge_IsStrBack(char[] charArr,int begin,int end)
+            {
+                while (begin!=end)
+                {
+                    if ((end-begin) >1 && charArr[begin] == charArr[end])
+                    {
+                        begin++;
+                        end--;
                     }
                     else
                     {
-                        int int_Index_Start = dic_Now_CacheBuilderIndex[s_Chars[int_Currindex]];
-                        stringBuilder = stringBuilder.Remove(0,int_Index_Start);
+                        return false;
+                    }
+                }
 
-                        stringBuilder_Cache = stringBuilder_Cache.Length < stringBuilder.Length ? stringBuilder : stringBuilder_Cache;
-                        str_Resault = stringBuilder_Cache.ToString();
+                return true;
+            }
+        }
+
+        public static string LongestPalindrome(string s)
+        {
+            if (true)
+            {
+                return "";
+            }
+            int len = s.Length;
+            if (len<2)
+            {
+                return s;
+            }
+
+            int maxLen = 1;
+            int begin = 0;
+
+            bool[,] cacheState = new bool[len,len];
+            for (int i = 0; i < len; i++)
+            {
+                cacheState[i,i] = true;
+            }
+
+            char[] charArray = s.ToCharArray();
+
+            for (int L = 2; L < len; L++)
+            {
+                for (int i = 0; i < len; i++)
+                {
+                    int j = L + i - 1;
+                    if (j>=len)
+                    {
+                        break;
+                    }
+                    if (charArray[i] != charArray[j])
+                    {
+                        cacheState[i, j] = false;
+                    }
+                    else
+                    {
+                        if (j - i < 3)
+                        {
+                            cacheState[i, j] = true;
+                        }
+                        else
+                        {
+                            cacheState[i, j] = cacheState[i + 1, j - 1];
+                        }
                     }
 
-
-                    stringBuilder.Clear();
-                    int_Currindex = dic_Now[s_Chars[int_Currindex]]+1;
-                    dic_Now.Clear();
-                    dic_Now_CacheBuilderIndex.Clear();
-                }
-                else
-                {
-                    dic_Now.Add(s_Chars[int_Currindex], int_Currindex);
-                    stringBuilder.Append(s_Chars[int_Currindex]);
-                    dic_Now_CacheBuilderIndex.Add(s_Chars[int_Currindex], stringBuilder.Length - 1);
+                    if (cacheState[i,j] && j-i+1>maxLen)
+                    {
+                        maxLen = j - i + 1;
+                    }
                 }
             }
-
-            if (str_Resault=="")
-            {
-                str_Resault = stringBuilder[0].ToString();
-            }
-
-            return str_Resault;
         }
     }
 }

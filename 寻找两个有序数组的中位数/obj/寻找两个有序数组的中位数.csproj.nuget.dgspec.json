@@ -1,23 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Unity\\UnityProjects\\LeeCode\\LeeCode\\寻找两个有序数组的中位数\\寻找两个有序数组的中位数.csproj": {}
+    "F:\\Unity\\UnityProjects\\LeeCode\\寻找两个有序数组的中位数\\寻找两个有序数组的中位数.csproj": {}
   },
   "projects": {
-    "F:\\Unity\\UnityProjects\\LeeCode\\LeeCode\\寻找两个有序数组的中位数\\寻找两个有序数组的中位数.csproj": {
+    "F:\\Unity\\UnityProjects\\LeeCode\\寻找两个有序数组的中位数\\寻找两个有序数组的中位数.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Unity\\UnityProjects\\LeeCode\\LeeCode\\寻找两个有序数组的中位数\\寻找两个有序数组的中位数.csproj",
+        "projectUniqueName": "F:\\Unity\\UnityProjects\\LeeCode\\寻找两个有序数组的中位数\\寻找两个有序数组的中位数.csproj",
         "projectName": "寻找两个有序数组的中位数",
-        "projectPath": "F:\\Unity\\UnityProjects\\LeeCode\\LeeCode\\寻找两个有序数组的中位数\\寻找两个有序数组的中位数.csproj",
-        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "F:\\Unity\\UnityProjects\\LeeCode\\LeeCode\\寻找两个有序数组的中位数\\obj\\",
+        "projectPath": "F:\\Unity\\UnityProjects\\LeeCode\\寻找两个有序数组的中位数\\寻找两个有序数组的中位数.csproj",
+        "packagesPath": "C:\\Users\\X\\.nuget\\packages\\",
+        "outputPath": "F:\\Unity\\UnityProjects\\LeeCode\\寻找两个有序数组的中位数\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\X\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -57,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }

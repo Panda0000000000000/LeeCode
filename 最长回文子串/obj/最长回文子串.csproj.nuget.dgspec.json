@@ -1,23 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Unity\\UnityProjects\\LeeCode\\LeeCode\\最长回文子串\\最长回文子串.csproj": {}
+    "F:\\Unity\\UnityProjects\\LeeCode\\最长回文子串\\最长回文子串.csproj": {}
   },
   "projects": {
-    "F:\\Unity\\UnityProjects\\LeeCode\\LeeCode\\最长回文子串\\最长回文子串.csproj": {
+    "F:\\Unity\\UnityProjects\\LeeCode\\最长回文子串\\最长回文子串.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Unity\\UnityProjects\\LeeCode\\LeeCode\\最长回文子串\\最长回文子串.csproj",
+        "projectUniqueName": "F:\\Unity\\UnityProjects\\LeeCode\\最长回文子串\\最长回文子串.csproj",
         "projectName": "最长回文子串",
-        "projectPath": "F:\\Unity\\UnityProjects\\LeeCode\\LeeCode\\最长回文子串\\最长回文子串.csproj",
-        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "F:\\Unity\\UnityProjects\\LeeCode\\LeeCode\\最长回文子串\\obj\\",
+        "projectPath": "F:\\Unity\\UnityProjects\\LeeCode\\最长回文子串\\最长回文子串.csproj",
+        "packagesPath": "C:\\Users\\X\\.nuget\\packages\\",
+        "outputPath": "F:\\Unity\\UnityProjects\\LeeCode\\最长回文子串\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\X\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -57,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }
