@@ -8,7 +8,7 @@ namespace 最长回文子串
         {
             Console.WriteLine("Hello World!");
 
-            string resault =  LongestPalindrome_1("ac");
+            string resault = LongestPalindrome_2("babad");
 
             Console.ReadKey();
         }
@@ -60,14 +60,55 @@ namespace 最长回文子串
             }
         }
 
-        //中心扩散法
+        //动态规划
         public static string LongestPalindrome_2(string s)
         {
+            int len = s.Length;
+            if (len<2)
+            {
+                return s;
+            }
+
             int maxLen = 1;
             int begin = 0;
-            
 
-            
+            bool[,] dp = new bool[len,len];
+            for(int i = 0; i < len; i++)
+            {
+                dp[i, i] = true;
+            }
+
+            char[] charArr = s.ToCharArray();
+
+            for (int j = 1; j < len; j++)
+            {
+                for (int i = 0; i < j; i++)
+                {
+                    if (charArr[i] != charArr[j])
+                    {
+                        dp[i, j] = false;
+                    }
+                    else
+                    {
+                        if (j - i < 3)
+                        {
+                            dp[i, j] = true;
+                        }
+                        else
+                        {
+                            dp[i, j] = dp[i + 1, j - 1];
+                        }
+                    }
+
+                    if (j-i+1>maxLen && dp[i,j])
+                    {
+                        maxLen = j - i + 1;
+                        begin = i;
+                    }
+                }
+            }
+
+            return s.Substring(begin, maxLen);
         }
 
         public static string LongestPalindrome(string s)
