@@ -5,7 +5,6 @@ using System.Collections.Generic;
 
 namespace LeeCoode
 {
-    
   public class TreeNode
     {
         public int val;
@@ -25,18 +24,6 @@ namespace LeeCoode
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-        }
-
-        public IList<int> InorderTraversal(TreeNode root)
-        {
-            int GetTree(TreeNode root)
-            {
-                if (root.val==null)
-                {
-
-                }
-            }
-
         }
     }
 }

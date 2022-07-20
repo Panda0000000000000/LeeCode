@@ -2,13 +2,13 @@
 
 namespace 最长回文子串
 {
-    class Program
+    class 最长回文子串
     {
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
 
-            LongestPalindrome_1("cbbd");
+            string resault =  LongestPalindrome_1("ac");
 
             Console.ReadKey();
         }
@@ -17,23 +17,23 @@ namespace 最长回文子串
         public static string LongestPalindrome_1(string s)
         {
             int len = s.Length;
-            if (len<=2)
+            if (len<2)
             {
                 return s;
             }
 
             char[] charArr= s.ToCharArray();
 
-            int maxLen = 0;
-            int begin = 0;
-            for (int i = 0; i < charArr.Length-2; i++)
+            int maxLen = 1;
+            int begin = 0;  
+            for(int i = 0; i < charArr.Length-1; i++)
             {
-                for (int j = 0; j < charArr.Length; j++)
+                for(int j = i+1; j < charArr.Length; j++)
                 {
-                    if (j-i>maxLen && Judge_IsStrBack(charArr,i,j))
+                    if(j-i+1>maxLen && Judge_IsStrBack(charArr,i,j))
                     {
                         begin = i;
-                        maxLen = j + 1;
+                        maxLen = (j - i)+1;
                     }
                 }
             }
@@ -42,12 +42,13 @@ namespace 最长回文子串
 
             bool Judge_IsStrBack(char[] charArr,int begin,int end)
             {
-                while (begin!=end)
+                while (begin<end)
                 {
-                    if ((end-begin) >1 && charArr[begin] == charArr[end])
+                    if (charArr[begin] == charArr[end])
                     {
                         begin++;
                         end--;
+
                     }
                     else
                     {
@@ -57,6 +58,16 @@ namespace 最长回文子串
 
                 return true;
             }
+        }
+
+        //中心扩散法
+        public static string LongestPalindrome_2(string s)
+        {
+            int maxLen = 1;
+            int begin = 0;
+            
+
+            
         }
 
         public static string LongestPalindrome(string s)
