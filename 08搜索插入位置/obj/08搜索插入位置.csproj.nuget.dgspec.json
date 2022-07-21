@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Unity\\UnityProjects\\LeeCode\\LeeCoode\\01LeeCoode.csproj": {}
+    "F:\\Unity\\UnityProjects\\LeeCode\\08搜索插入位置\\08搜索插入位置.csproj": {}
   },
   "projects": {
-    "F:\\Unity\\UnityProjects\\LeeCode\\LeeCoode\\01LeeCoode.csproj": {
+    "F:\\Unity\\UnityProjects\\LeeCode\\08搜索插入位置\\08搜索插入位置.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Unity\\UnityProjects\\LeeCode\\LeeCoode\\01LeeCoode.csproj",
-        "projectName": "01LeeCoode",
-        "projectPath": "F:\\Unity\\UnityProjects\\LeeCode\\LeeCoode\\01LeeCoode.csproj",
+        "projectUniqueName": "F:\\Unity\\UnityProjects\\LeeCode\\08搜索插入位置\\08搜索插入位置.csproj",
+        "projectName": "08搜索插入位置",
+        "projectPath": "F:\\Unity\\UnityProjects\\LeeCode\\08搜索插入位置\\08搜索插入位置.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "F:\\Unity\\UnityProjects\\LeeCode\\LeeCoode\\obj\\",
+        "outputPath": "F:\\Unity\\UnityProjects\\LeeCode\\08搜索插入位置\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
