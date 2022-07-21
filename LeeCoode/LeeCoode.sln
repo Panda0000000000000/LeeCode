@@ -11,9 +11,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03寻找两个有序数组�
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04二叉树的中序遍历", "..\二叉树的中序遍历\04二叉树的中序遍历.csproj", "{E188389A-C8EB-4515-B0C9-818B3ED67AC6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05二叉树的前序遍历", "..\二叉树的前序遍历\05二叉树的前序遍历.csproj", "{0C95DE56-BCD9-4F8A-BFA0-AEF47746CE08}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05二叉树的前序遍历", "..\二叉树的前序遍历\05二叉树的前序遍历.csproj", "{0C95DE56-BCD9-4F8A-BFA0-AEF47746CE08}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06二叉树的后序遍历", "..\二叉树的后序遍历\06二叉树的后序遍历.csproj", "{388D0036-70BC-4954-99B7-8554317914B5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06二叉树的后序遍历", "..\二叉树的后序遍历\06二叉树的后序遍历.csproj", "{388D0036-70BC-4954-99B7-8554317914B5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Z字形变换", "..\Z字形变换\Z字形变换.csproj", "{6B43C952-6760-4AA9-B69A-0AFC39338240}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{388D0036-70BC-4954-99B7-8554317914B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{388D0036-70BC-4954-99B7-8554317914B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{388D0036-70BC-4954-99B7-8554317914B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B43C952-6760-4AA9-B69A-0AFC39338240}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B43C952-6760-4AA9-B69A-0AFC39338240}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B43C952-6760-4AA9-B69A-0AFC39338240}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B43C952-6760-4AA9-B69A-0AFC39338240}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

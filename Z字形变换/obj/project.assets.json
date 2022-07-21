@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Unity\\UnityProjects\\LeeCode\\二叉树的后序遍历\\06二叉树的后序遍历.csproj",
-      "projectName": "06二叉树的后序遍历",
-      "projectPath": "F:\\Unity\\UnityProjects\\LeeCode\\二叉树的后序遍历\\06二叉树的后序遍历.csproj",
+      "projectUniqueName": "F:\\Unity\\UnityProjects\\LeeCode\\Z字形变换\\Z字形变换.csproj",
+      "projectName": "Z字形变换",
+      "projectPath": "F:\\Unity\\UnityProjects\\LeeCode\\Z字形变换\\Z字形变换.csproj",
       "packagesPath": "C:\\Users\\X\\.nuget\\packages\\",
-      "outputPath": "F:\\Unity\\UnityProjects\\LeeCode\\二叉树的后序遍历\\obj\\",
+      "outputPath": "F:\\Unity\\UnityProjects\\LeeCode\\Z字形变换\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\X\\AppData\\Roaming\\NuGet\\NuGet.Config",

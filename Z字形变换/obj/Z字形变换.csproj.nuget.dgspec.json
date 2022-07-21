@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Unity\\UnityProjects\\LeeCode\\最长回文子串\\02最长回文子串.csproj": {}
+    "F:\\Unity\\UnityProjects\\LeeCode\\Z字形变换\\Z字形变换.csproj": {}
   },
   "projects": {
-    "F:\\Unity\\UnityProjects\\LeeCode\\最长回文子串\\02最长回文子串.csproj": {
+    "F:\\Unity\\UnityProjects\\LeeCode\\Z字形变换\\Z字形变换.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Unity\\UnityProjects\\LeeCode\\最长回文子串\\02最长回文子串.csproj",
-        "projectName": "02最长回文子串",
-        "projectPath": "F:\\Unity\\UnityProjects\\LeeCode\\最长回文子串\\02最长回文子串.csproj",
+        "projectUniqueName": "F:\\Unity\\UnityProjects\\LeeCode\\Z字形变换\\Z字形变换.csproj",
+        "projectName": "Z字形变换",
+        "projectPath": "F:\\Unity\\UnityProjects\\LeeCode\\Z字形变换\\Z字形变换.csproj",
         "packagesPath": "C:\\Users\\X\\.nuget\\packages\\",
-        "outputPath": "F:\\Unity\\UnityProjects\\LeeCode\\最长回文子串\\obj\\",
+        "outputPath": "F:\\Unity\\UnityProjects\\LeeCode\\Z字形变换\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\X\\AppData\\Roaming\\NuGet\\NuGet.Config",
