@@ -2,7 +2,7 @@
 
 namespace _08搜索插入位置
 {
-    class Program
+    class 搜索插入位置
     {
         static void Main(string[] args)
         {

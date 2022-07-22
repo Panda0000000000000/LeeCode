@@ -17,7 +17,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06二叉树的后序遍历"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "07Z字形变换", "..\Z字形变换\07Z字形变换.csproj", "{6B43C952-6760-4AA9-B69A-0AFC39338240}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08搜索插入位置", "..\08搜索插入位置\08搜索插入位置.csproj", "{FFF106DB-5CB4-4791-8476-9ED03AAED40C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "08搜索插入位置", "..\08搜索插入位置\08搜索插入位置.csproj", "{FFF106DB-5CB4-4791-8476-9ED03AAED40C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09二分查找", "..\09二分查找\09二分查找.csproj", "{E4972F65-F21C-4952-957B-F5C3FAEFA2A6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10猜数字大小", "..\10猜数字大小\10猜数字大小.csproj", "{0AA202E8-1BBB-446C-A393-A7CFBD789BA3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +61,14 @@ Global
 		{FFF106DB-5CB4-4791-8476-9ED03AAED40C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FFF106DB-5CB4-4791-8476-9ED03AAED40C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FFF106DB-5CB4-4791-8476-9ED03AAED40C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E4972F65-F21C-4952-957B-F5C3FAEFA2A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4972F65-F21C-4952-957B-F5C3FAEFA2A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4972F65-F21C-4952-957B-F5C3FAEFA2A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4972F65-F21C-4952-957B-F5C3FAEFA2A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0AA202E8-1BBB-446C-A393-A7CFBD789BA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0AA202E8-1BBB-446C-A393-A7CFBD789BA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0AA202E8-1BBB-446C-A393-A7CFBD789BA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0AA202E8-1BBB-446C-A393-A7CFBD789BA3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
