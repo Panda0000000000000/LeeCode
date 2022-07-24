@@ -1,5 +1,4 @@
 F:\Unity\UnityProjects\LeeCode\10猜数字大小\obj\Debug\netcoreapp3.1\10猜数字大小.csproj.AssemblyReference.cache
-F:\Unity\UnityProjects\LeeCode\10猜数字大小\obj\Debug\netcoreapp3.1\10猜数字大小.GeneratedMSBuildEditorConfig.editorconfig
 F:\Unity\UnityProjects\LeeCode\10猜数字大小\obj\Debug\netcoreapp3.1\10猜数字大小.AssemblyInfoInputs.cache
 F:\Unity\UnityProjects\LeeCode\10猜数字大小\obj\Debug\netcoreapp3.1\10猜数字大小.AssemblyInfo.cs
 F:\Unity\UnityProjects\LeeCode\10猜数字大小\obj\Debug\netcoreapp3.1\10猜数字大小.csproj.CoreCompileInputs.cache
