@@ -23,7 +23,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "09二分查找", "..\09二�
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "10猜数字大小", "..\10猜数字大小\10猜数字大小.csproj", "{0AA202E8-1BBB-446C-A393-A7CFBD789BA3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11搜索插入位置", "..\11搜索插入位置\11搜索插入位置.csproj", "{3D4C371D-1E4C-41EC-9432-3FE9AA3E6161}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "11搜索插入位置", "..\11搜索插入位置\11搜索插入位置.csproj", "{3D4C371D-1E4C-41EC-9432-3FE9AA3E6161}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12山脉数组的峰顶索引", "..\12山脉数组的峰顶索引\12山脉数组的峰顶索引.csproj", "{F42FE923-F995-4304-8342-A2364AE5ECC1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -75,6 +77,10 @@ Global
 		{3D4C371D-1E4C-41EC-9432-3FE9AA3E6161}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3D4C371D-1E4C-41EC-9432-3FE9AA3E6161}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3D4C371D-1E4C-41EC-9432-3FE9AA3E6161}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F42FE923-F995-4304-8342-A2364AE5ECC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F42FE923-F995-4304-8342-A2364AE5ECC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F42FE923-F995-4304-8342-A2364AE5ECC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F42FE923-F995-4304-8342-A2364AE5ECC1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
