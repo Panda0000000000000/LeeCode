@@ -1,0 +1,13 @@
+F:\Unity\UnityProjects\LeeCode\13有效的完全平方数\bin\Debug\netcoreapp3.1\13有效的完全平方数.exe
+F:\Unity\UnityProjects\LeeCode\13有效的完全平方数\bin\Debug\netcoreapp3.1\13有效的完全平方数.deps.json
+F:\Unity\UnityProjects\LeeCode\13有效的完全平方数\bin\Debug\netcoreapp3.1\13有效的完全平方数.runtimeconfig.json
+F:\Unity\UnityProjects\LeeCode\13有效的完全平方数\bin\Debug\netcoreapp3.1\13有效的完全平方数.runtimeconfig.dev.json
+F:\Unity\UnityProjects\LeeCode\13有效的完全平方数\bin\Debug\netcoreapp3.1\13有效的完全平方数.dll
+F:\Unity\UnityProjects\LeeCode\13有效的完全平方数\bin\Debug\netcoreapp3.1\13有效的完全平方数.pdb
+F:\Unity\UnityProjects\LeeCode\13有效的完全平方数\obj\Debug\netcoreapp3.1\13有效的完全平方数.GeneratedMSBuildEditorConfig.editorconfig
+F:\Unity\UnityProjects\LeeCode\13有效的完全平方数\obj\Debug\netcoreapp3.1\13有效的完全平方数.AssemblyInfoInputs.cache
+F:\Unity\UnityProjects\LeeCode\13有效的完全平方数\obj\Debug\netcoreapp3.1\13有效的完全平方数.AssemblyInfo.cs
+F:\Unity\UnityProjects\LeeCode\13有效的完全平方数\obj\Debug\netcoreapp3.1\13有效的完全平方数.csproj.CoreCompileInputs.cache
+F:\Unity\UnityProjects\LeeCode\13有效的完全平方数\obj\Debug\netcoreapp3.1\13有效的完全平方数.dll
+F:\Unity\UnityProjects\LeeCode\13有效的完全平方数\obj\Debug\netcoreapp3.1\13有效的完全平方数.pdb
+F:\Unity\UnityProjects\LeeCode\13有效的完全平方数\obj\Debug\netcoreapp3.1\13有效的完全平方数.genruntimeconfig.cache
