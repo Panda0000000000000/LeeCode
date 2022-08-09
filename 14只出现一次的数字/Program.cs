@@ -8,5 +8,7 @@ namespace _14只出现一次的数字
         {
             Console.WriteLine("Hello World!");
         }
+
+        //异或
     }
 }
