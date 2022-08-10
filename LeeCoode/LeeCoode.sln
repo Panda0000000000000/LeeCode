@@ -27,9 +27,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "11搜索插入位置", "..\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "12山脉数组的峰顶索引", "..\12山脉数组的峰顶索引\12山脉数组的峰顶索引.csproj", "{F42FE923-F995-4304-8342-A2364AE5ECC1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13有效的完全平方数", "..\13有效的完全平方数\13有效的完全平方数.csproj", "{EA4CC8FF-3497-4869-8A8F-2C3DADB5730B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "13有效的完全平方数", "..\13有效的完全平方数\13有效的完全平方数.csproj", "{EA4CC8FF-3497-4869-8A8F-2C3DADB5730B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14只出现一次的数字", "..\14只出现一次的数字\14只出现一次的数字.csproj", "{42A3B304-0AF2-4EE6-8E23-D51C65A4FE9F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "14只出现一次的数字", "..\14只出现一次的数字\14只出现一次的数字.csproj", "{42A3B304-0AF2-4EE6-8E23-D51C65A4FE9F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "15搜索二维矩阵", "..\15搜索二维矩阵\15搜索二维矩阵.csproj", "{FE80CE21-1E8F-4B1C-A5A1-24297087D48F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -93,6 +95,10 @@ Global
 		{42A3B304-0AF2-4EE6-8E23-D51C65A4FE9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{42A3B304-0AF2-4EE6-8E23-D51C65A4FE9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{42A3B304-0AF2-4EE6-8E23-D51C65A4FE9F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE80CE21-1E8F-4B1C-A5A1-24297087D48F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE80CE21-1E8F-4B1C-A5A1-24297087D48F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE80CE21-1E8F-4B1C-A5A1-24297087D48F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE80CE21-1E8F-4B1C-A5A1-24297087D48F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
