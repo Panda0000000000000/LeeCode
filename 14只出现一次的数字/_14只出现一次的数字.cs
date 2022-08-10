@@ -2,13 +2,13 @@
 
 namespace _14只出现一次的数字
 {
-    class _14只出现一次的数字
+    class Program
     {
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
         }
 
-        //使用异或
+        //异或
     }
 }
