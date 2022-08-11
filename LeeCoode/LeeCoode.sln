@@ -31,7 +31,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "13有效的完全平方数"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "14只出现一次的数字", "..\14只出现一次的数字\14只出现一次的数字.csproj", "{42A3B304-0AF2-4EE6-8E23-D51C65A4FE9F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "15搜索二维矩阵", "..\15搜索二维矩阵\15搜索二维矩阵.csproj", "{FE80CE21-1E8F-4B1C-A5A1-24297087D48F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "15搜索二维矩阵", "..\15搜索二维矩阵\15搜索二维矩阵.csproj", "{FE80CE21-1E8F-4B1C-A5A1-24297087D48F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "16合并两个有序数组", "..\16合并两个有序数组\16合并两个有序数组.csproj", "{C6EF5AA9-0A5E-48EC-B48E-F38283D6AECC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "17鸡蛋掉落", "..\17鸡蛋掉落\17鸡蛋掉落.csproj", "{B20A30DD-D378-4FC0-8AFD-DF9C6DB9BDDC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -99,6 +103,14 @@ Global
 		{FE80CE21-1E8F-4B1C-A5A1-24297087D48F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FE80CE21-1E8F-4B1C-A5A1-24297087D48F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FE80CE21-1E8F-4B1C-A5A1-24297087D48F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6EF5AA9-0A5E-48EC-B48E-F38283D6AECC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6EF5AA9-0A5E-48EC-B48E-F38283D6AECC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6EF5AA9-0A5E-48EC-B48E-F38283D6AECC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6EF5AA9-0A5E-48EC-B48E-F38283D6AECC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B20A30DD-D378-4FC0-8AFD-DF9C6DB9BDDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B20A30DD-D378-4FC0-8AFD-DF9C6DB9BDDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B20A30DD-D378-4FC0-8AFD-DF9C6DB9BDDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B20A30DD-D378-4FC0-8AFD-DF9C6DB9BDDC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

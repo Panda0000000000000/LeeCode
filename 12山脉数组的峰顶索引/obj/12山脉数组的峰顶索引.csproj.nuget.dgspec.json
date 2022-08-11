@@ -10,14 +10,11 @@
         "projectUniqueName": "F:\\Unity\\UnityProjects\\LeeCode\\12山脉数组的峰顶索引\\12山脉数组的峰顶索引.csproj",
         "projectName": "12山脉数组的峰顶索引",
         "projectPath": "F:\\Unity\\UnityProjects\\LeeCode\\12山脉数组的峰顶索引\\12山脉数组的峰顶索引.csproj",
-        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+        "packagesPath": "C:\\Users\\X\\.nuget\\packages\\",
         "outputPath": "F:\\Unity\\UnityProjects\\LeeCode\\12山脉数组的峰顶索引\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\X\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -57,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }

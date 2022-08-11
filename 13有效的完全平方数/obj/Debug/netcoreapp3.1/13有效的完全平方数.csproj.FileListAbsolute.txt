@@ -11,3 +11,4 @@ F:\Unity\UnityProjects\LeeCode\13有效的完全平方数\obj\Debug\netcoreapp3.
 F:\Unity\UnityProjects\LeeCode\13有效的完全平方数\obj\Debug\netcoreapp3.1\13有效的完全平方数.dll
 F:\Unity\UnityProjects\LeeCode\13有效的完全平方数\obj\Debug\netcoreapp3.1\13有效的完全平方数.pdb
 F:\Unity\UnityProjects\LeeCode\13有效的完全平方数\obj\Debug\netcoreapp3.1\13有效的完全平方数.genruntimeconfig.cache
+F:\Unity\UnityProjects\LeeCode\13有效的完全平方数\obj\Debug\netcoreapp3.1\13有效的完全平方数.csproj.AssemblyReference.cache
