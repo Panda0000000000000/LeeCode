@@ -1,0 +1,13 @@
+F:\Unity\UnityProjects\LeeCode\18验证回文串\bin\Debug\netcoreapp3.1\18验证回文串.exe
+F:\Unity\UnityProjects\LeeCode\18验证回文串\bin\Debug\netcoreapp3.1\18验证回文串.deps.json
+F:\Unity\UnityProjects\LeeCode\18验证回文串\bin\Debug\netcoreapp3.1\18验证回文串.runtimeconfig.json
+F:\Unity\UnityProjects\LeeCode\18验证回文串\bin\Debug\netcoreapp3.1\18验证回文串.runtimeconfig.dev.json
+F:\Unity\UnityProjects\LeeCode\18验证回文串\bin\Debug\netcoreapp3.1\18验证回文串.dll
+F:\Unity\UnityProjects\LeeCode\18验证回文串\bin\Debug\netcoreapp3.1\18验证回文串.pdb
+F:\Unity\UnityProjects\LeeCode\18验证回文串\obj\Debug\netcoreapp3.1\18验证回文串.csproj.AssemblyReference.cache
+F:\Unity\UnityProjects\LeeCode\18验证回文串\obj\Debug\netcoreapp3.1\18验证回文串.AssemblyInfoInputs.cache
+F:\Unity\UnityProjects\LeeCode\18验证回文串\obj\Debug\netcoreapp3.1\18验证回文串.AssemblyInfo.cs
+F:\Unity\UnityProjects\LeeCode\18验证回文串\obj\Debug\netcoreapp3.1\18验证回文串.csproj.CoreCompileInputs.cache
+F:\Unity\UnityProjects\LeeCode\18验证回文串\obj\Debug\netcoreapp3.1\18验证回文串.dll
+F:\Unity\UnityProjects\LeeCode\18验证回文串\obj\Debug\netcoreapp3.1\18验证回文串.pdb
+F:\Unity\UnityProjects\LeeCode\18验证回文串\obj\Debug\netcoreapp3.1\18验证回文串.genruntimeconfig.cache

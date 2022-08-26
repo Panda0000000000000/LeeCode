@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "18验证回文串/1.0.0": {
+        "runtime": {
+          "18验证回文串.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "18验证回文串/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

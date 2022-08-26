@@ -166,5 +166,54 @@ namespace 最长回文子串
                 }
             }
         }
+        
+        //动态规划
+        public static string LongestPalindrome_2_S(string s)
+        {
+            int len = s.Length;
+            if (len<2)
+            {
+                return s;
+            }
+
+            int maxLen = 1;
+            int begin = 0;
+
+            char[] str_Arry = s.ToCharArray();
+            bool[,] dp = new bool[0, len - 1];
+            for (int i = 0; i < len; i++)
+            {
+                dp[i,i] = true;
+            }
+
+            for (int j = 1; j < len; j++)
+            {
+                for (int i = 0; i < j; i++)
+                {
+                    if (str_Arry[i] != str_Arry[j])
+                    {
+                        dp[i, j] = false;
+                    }
+                    else
+                    {
+                        if (j - i < 3)
+                        {
+                            dp[i, j] = true;
+                        }
+                        else
+                        {
+                            dp[i, j] = dp[i + 1, j - 1];
+                        }
+                    }
+
+                    if (j-i+1>maxLen&&dp[i,j])
+                    {
+                        maxLen = j - i + 1;
+                        begin = i;
+                    }
+                }
+            }
+            return s.Substring(begin, maxLen);
+        }
     }
 }
