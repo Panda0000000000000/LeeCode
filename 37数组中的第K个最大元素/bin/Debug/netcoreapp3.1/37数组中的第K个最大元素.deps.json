@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "37数组中的第K个最大元素/1.0.0": {
+        "runtime": {
+          "37数组中的第K个最大元素.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "37数组中的第K个最大元素/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

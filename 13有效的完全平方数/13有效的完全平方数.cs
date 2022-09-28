@@ -16,7 +16,7 @@ namespace _13有效的完全平方数
             long l = 0, r = num;
             while(l <= r)
             {
-                long mid = ((r - l) /1) + l;
+                long mid = ((r - l) /2) + l;
                 long sqr = mid * mid;
                 if (sqr> num)
                 {

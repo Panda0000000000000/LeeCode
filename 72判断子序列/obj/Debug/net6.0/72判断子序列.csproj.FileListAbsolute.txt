@@ -1,0 +1,15 @@
+F:\Unity\UnityProjects\LeeCode\72判断子序列\bin\Debug\net6.0\72判断子序列.exe
+F:\Unity\UnityProjects\LeeCode\72判断子序列\bin\Debug\net6.0\72判断子序列.deps.json
+F:\Unity\UnityProjects\LeeCode\72判断子序列\bin\Debug\net6.0\72判断子序列.runtimeconfig.json
+F:\Unity\UnityProjects\LeeCode\72判断子序列\bin\Debug\net6.0\72判断子序列.dll
+F:\Unity\UnityProjects\LeeCode\72判断子序列\bin\Debug\net6.0\72判断子序列.pdb
+F:\Unity\UnityProjects\LeeCode\72判断子序列\obj\Debug\net6.0\72判断子序列.csproj.AssemblyReference.cache
+F:\Unity\UnityProjects\LeeCode\72判断子序列\obj\Debug\net6.0\72判断子序列.GeneratedMSBuildEditorConfig.editorconfig
+F:\Unity\UnityProjects\LeeCode\72判断子序列\obj\Debug\net6.0\72判断子序列.AssemblyInfoInputs.cache
+F:\Unity\UnityProjects\LeeCode\72判断子序列\obj\Debug\net6.0\72判断子序列.AssemblyInfo.cs
+F:\Unity\UnityProjects\LeeCode\72判断子序列\obj\Debug\net6.0\72判断子序列.csproj.CoreCompileInputs.cache
+F:\Unity\UnityProjects\LeeCode\72判断子序列\obj\Debug\net6.0\72判断子序列.dll
+F:\Unity\UnityProjects\LeeCode\72判断子序列\obj\Debug\net6.0\refint\72判断子序列.dll
+F:\Unity\UnityProjects\LeeCode\72判断子序列\obj\Debug\net6.0\72判断子序列.pdb
+F:\Unity\UnityProjects\LeeCode\72判断子序列\obj\Debug\net6.0\72判断子序列.genruntimeconfig.cache
+F:\Unity\UnityProjects\LeeCode\72判断子序列\obj\Debug\net6.0\ref\72判断子序列.dll

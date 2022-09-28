@@ -1,0 +1,15 @@
+F:\Unity\UnityProjects\LeeCode\TestProject\bin\Debug\net6.0\TestProject.exe
+F:\Unity\UnityProjects\LeeCode\TestProject\bin\Debug\net6.0\TestProject.deps.json
+F:\Unity\UnityProjects\LeeCode\TestProject\bin\Debug\net6.0\TestProject.runtimeconfig.json
+F:\Unity\UnityProjects\LeeCode\TestProject\bin\Debug\net6.0\TestProject.dll
+F:\Unity\UnityProjects\LeeCode\TestProject\bin\Debug\net6.0\TestProject.pdb
+F:\Unity\UnityProjects\LeeCode\TestProject\obj\Debug\net6.0\TestProject.csproj.AssemblyReference.cache
+F:\Unity\UnityProjects\LeeCode\TestProject\obj\Debug\net6.0\TestProject.GeneratedMSBuildEditorConfig.editorconfig
+F:\Unity\UnityProjects\LeeCode\TestProject\obj\Debug\net6.0\TestProject.AssemblyInfoInputs.cache
+F:\Unity\UnityProjects\LeeCode\TestProject\obj\Debug\net6.0\TestProject.AssemblyInfo.cs
+F:\Unity\UnityProjects\LeeCode\TestProject\obj\Debug\net6.0\TestProject.csproj.CoreCompileInputs.cache
+F:\Unity\UnityProjects\LeeCode\TestProject\obj\Debug\net6.0\TestProject.dll
+F:\Unity\UnityProjects\LeeCode\TestProject\obj\Debug\net6.0\refint\TestProject.dll
+F:\Unity\UnityProjects\LeeCode\TestProject\obj\Debug\net6.0\TestProject.pdb
+F:\Unity\UnityProjects\LeeCode\TestProject\obj\Debug\net6.0\TestProject.genruntimeconfig.cache
+F:\Unity\UnityProjects\LeeCode\TestProject\obj\Debug\net6.0\ref\TestProject.dll

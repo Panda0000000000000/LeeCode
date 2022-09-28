@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "44基本计算器II/1.0.0": {
+        "runtime": {
+          "44基本计算器II.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "44基本计算器II/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

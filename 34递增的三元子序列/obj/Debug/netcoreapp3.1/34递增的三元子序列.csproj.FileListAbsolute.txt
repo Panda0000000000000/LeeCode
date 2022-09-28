@@ -1,0 +1,13 @@
+F:\Unity\UnityProjects\LeeCode\34递增的三元子序列\bin\Debug\netcoreapp3.1\34递增的三元子序列.exe
+F:\Unity\UnityProjects\LeeCode\34递增的三元子序列\bin\Debug\netcoreapp3.1\34递增的三元子序列.deps.json
+F:\Unity\UnityProjects\LeeCode\34递增的三元子序列\bin\Debug\netcoreapp3.1\34递增的三元子序列.runtimeconfig.json
+F:\Unity\UnityProjects\LeeCode\34递增的三元子序列\bin\Debug\netcoreapp3.1\34递增的三元子序列.runtimeconfig.dev.json
+F:\Unity\UnityProjects\LeeCode\34递增的三元子序列\bin\Debug\netcoreapp3.1\34递增的三元子序列.dll
+F:\Unity\UnityProjects\LeeCode\34递增的三元子序列\bin\Debug\netcoreapp3.1\34递增的三元子序列.pdb
+F:\Unity\UnityProjects\LeeCode\34递增的三元子序列\obj\Debug\netcoreapp3.1\34递增的三元子序列.AssemblyInfoInputs.cache
+F:\Unity\UnityProjects\LeeCode\34递增的三元子序列\obj\Debug\netcoreapp3.1\34递增的三元子序列.AssemblyInfo.cs
+F:\Unity\UnityProjects\LeeCode\34递增的三元子序列\obj\Debug\netcoreapp3.1\34递增的三元子序列.csproj.CoreCompileInputs.cache
+F:\Unity\UnityProjects\LeeCode\34递增的三元子序列\obj\Debug\netcoreapp3.1\34递增的三元子序列.dll
+F:\Unity\UnityProjects\LeeCode\34递增的三元子序列\obj\Debug\netcoreapp3.1\34递增的三元子序列.pdb
+F:\Unity\UnityProjects\LeeCode\34递增的三元子序列\obj\Debug\netcoreapp3.1\34递增的三元子序列.genruntimeconfig.cache
+F:\Unity\UnityProjects\LeeCode\34递增的三元子序列\obj\Debug\netcoreapp3.1\34递增的三元子序列.csproj.AssemblyReference.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "43窗口滑动最大值/1.0.0": {
+        "runtime": {
+          "43窗口滑动最大值.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "43窗口滑动最大值/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

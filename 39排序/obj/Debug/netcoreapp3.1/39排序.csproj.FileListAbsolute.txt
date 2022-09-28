@@ -1,0 +1,14 @@
+F:\Unity\UnityProjects\LeeCode\39排序\bin\Debug\netcoreapp3.1\39排序.exe
+F:\Unity\UnityProjects\LeeCode\39排序\bin\Debug\netcoreapp3.1\39排序.deps.json
+F:\Unity\UnityProjects\LeeCode\39排序\bin\Debug\netcoreapp3.1\39排序.runtimeconfig.json
+F:\Unity\UnityProjects\LeeCode\39排序\bin\Debug\netcoreapp3.1\39排序.runtimeconfig.dev.json
+F:\Unity\UnityProjects\LeeCode\39排序\bin\Debug\netcoreapp3.1\39排序.dll
+F:\Unity\UnityProjects\LeeCode\39排序\bin\Debug\netcoreapp3.1\39排序.pdb
+F:\Unity\UnityProjects\LeeCode\39排序\obj\Debug\netcoreapp3.1\39排序.csproj.AssemblyReference.cache
+F:\Unity\UnityProjects\LeeCode\39排序\obj\Debug\netcoreapp3.1\39排序.AssemblyInfoInputs.cache
+F:\Unity\UnityProjects\LeeCode\39排序\obj\Debug\netcoreapp3.1\39排序.AssemblyInfo.cs
+F:\Unity\UnityProjects\LeeCode\39排序\obj\Debug\netcoreapp3.1\39排序.csproj.CoreCompileInputs.cache
+F:\Unity\UnityProjects\LeeCode\39排序\obj\Debug\netcoreapp3.1\39排序.dll
+F:\Unity\UnityProjects\LeeCode\39排序\obj\Debug\netcoreapp3.1\39排序.pdb
+F:\Unity\UnityProjects\LeeCode\39排序\obj\Debug\netcoreapp3.1\39排序.genruntimeconfig.cache
+F:\Unity\UnityProjects\LeeCode\39排序\obj\Debug\netcoreapp3.1\39排序.GeneratedMSBuildEditorConfig.editorconfig

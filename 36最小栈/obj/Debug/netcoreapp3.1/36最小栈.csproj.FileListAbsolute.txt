@@ -1,0 +1,12 @@
+F:\Unity\UnityProjects\LeeCode\36最小栈\bin\Debug\netcoreapp3.1\36最小栈.exe
+F:\Unity\UnityProjects\LeeCode\36最小栈\bin\Debug\netcoreapp3.1\36最小栈.deps.json
+F:\Unity\UnityProjects\LeeCode\36最小栈\bin\Debug\netcoreapp3.1\36最小栈.runtimeconfig.json
+F:\Unity\UnityProjects\LeeCode\36最小栈\bin\Debug\netcoreapp3.1\36最小栈.runtimeconfig.dev.json
+F:\Unity\UnityProjects\LeeCode\36最小栈\bin\Debug\netcoreapp3.1\36最小栈.dll
+F:\Unity\UnityProjects\LeeCode\36最小栈\bin\Debug\netcoreapp3.1\36最小栈.pdb
+F:\Unity\UnityProjects\LeeCode\36最小栈\obj\Debug\netcoreapp3.1\36最小栈.AssemblyInfoInputs.cache
+F:\Unity\UnityProjects\LeeCode\36最小栈\obj\Debug\netcoreapp3.1\36最小栈.AssemblyInfo.cs
+F:\Unity\UnityProjects\LeeCode\36最小栈\obj\Debug\netcoreapp3.1\36最小栈.csproj.CoreCompileInputs.cache
+F:\Unity\UnityProjects\LeeCode\36最小栈\obj\Debug\netcoreapp3.1\36最小栈.dll
+F:\Unity\UnityProjects\LeeCode\36最小栈\obj\Debug\netcoreapp3.1\36最小栈.pdb
+F:\Unity\UnityProjects\LeeCode\36最小栈\obj\Debug\netcoreapp3.1\36最小栈.genruntimeconfig.cache

@@ -1,4 +1,12 @@
-﻿using System;
+﻿/***************************************************
+	日期：2022/09/05  14:38
+	作者：夏
+	描述：考点是二分查找法
+****************************************************/
+
+
+
+using System;
 
 namespace _08搜索插入位置
 {
@@ -9,6 +17,8 @@ namespace _08搜索插入位置
             Console.WriteLine("Hello World!");
         }
 
+
+        //这个还不行  这个的时间复杂度是O（n）  不是O（log n）  得用真正的二分查找法
         public int SearchInsert(int[] nums, int target)
         {
             if (nums.Length < 2)

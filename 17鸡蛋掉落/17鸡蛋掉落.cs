@@ -1,4 +1,10 @@
-﻿using System;
+﻿/***************************************************
+	日期：2022/09/06  22:18
+	作者：夏
+	描述：考点就是动态规划
+****************************************************/
+
+using System;
 using System.Collections.Generic;
 
 namespace _17鸡蛋掉落
@@ -10,48 +16,11 @@ namespace _17鸡蛋掉落
             Console.WriteLine("Hello World!");
         }
 
-        //动态规划+二分查找
-        public int SuperEggDrop_1(int k, int n)
+        //动态规划
+        public int SuperEggDrop_1(int k, int n,string a)
         {
-            Dictionary<int, int> memo = new Dictionary<int, int>();
-            int dp(int k, int n)
-            {
-                if (!memo.ContainsKey(n * 100 + k))
-                {
-                    int ans; ;
-                    if (n == 0)
-                    {
-                        ans = 0;
-                    }
-                    else if (k == 1)
-                    {
-                        ans = n;
-                    }
-                    else
-                    {
-                        int lo = 1, hi = n;
-                        while (lo + 1 < hi)
-                        {
-                            int x = (lo + hi) / 2;
-                            int t1 = dp(k - 1, x - 1);
-                            int t2 = dp(k, n - x);
-                            if (t1 < t2)
-                            {
-                                lo = x;
-                            }
-                            else if (t1 > t2)
-                            {
-                                hi = x;
-                            }
-                            else
-                            {
-                                lo = hi = x;
-                            }
-                            ans = 1 + Math.Min(Math.Max(dp(k - 1, lo - 1), dp(k, n - lo)), Math.Max(dp(k - 1, hi - 1), dp(k, n - hi)));
-                        }
-                    }
-                }
-            }
+            Dictionary<int, int> dic = new Dictionary<int, int>();
+
         }
 
         //数学法  Error

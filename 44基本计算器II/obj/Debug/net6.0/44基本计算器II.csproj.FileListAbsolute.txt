@@ -1,0 +1,15 @@
+F:\Unity\UnityProjects\LeeCode\44基本计算器II\bin\Debug\net6.0\44基本计算器II.exe
+F:\Unity\UnityProjects\LeeCode\44基本计算器II\bin\Debug\net6.0\44基本计算器II.deps.json
+F:\Unity\UnityProjects\LeeCode\44基本计算器II\bin\Debug\net6.0\44基本计算器II.runtimeconfig.json
+F:\Unity\UnityProjects\LeeCode\44基本计算器II\bin\Debug\net6.0\44基本计算器II.dll
+F:\Unity\UnityProjects\LeeCode\44基本计算器II\bin\Debug\net6.0\44基本计算器II.pdb
+F:\Unity\UnityProjects\LeeCode\44基本计算器II\obj\Debug\net6.0\44基本计算器II.csproj.AssemblyReference.cache
+F:\Unity\UnityProjects\LeeCode\44基本计算器II\obj\Debug\net6.0\44基本计算器II.GeneratedMSBuildEditorConfig.editorconfig
+F:\Unity\UnityProjects\LeeCode\44基本计算器II\obj\Debug\net6.0\44基本计算器II.AssemblyInfoInputs.cache
+F:\Unity\UnityProjects\LeeCode\44基本计算器II\obj\Debug\net6.0\44基本计算器II.AssemblyInfo.cs
+F:\Unity\UnityProjects\LeeCode\44基本计算器II\obj\Debug\net6.0\44基本计算器II.csproj.CoreCompileInputs.cache
+F:\Unity\UnityProjects\LeeCode\44基本计算器II\obj\Debug\net6.0\44基本计算器II.dll
+F:\Unity\UnityProjects\LeeCode\44基本计算器II\obj\Debug\net6.0\refint\44基本计算器II.dll
+F:\Unity\UnityProjects\LeeCode\44基本计算器II\obj\Debug\net6.0\44基本计算器II.pdb
+F:\Unity\UnityProjects\LeeCode\44基本计算器II\obj\Debug\net6.0\44基本计算器II.genruntimeconfig.cache
+F:\Unity\UnityProjects\LeeCode\44基本计算器II\obj\Debug\net6.0\ref\44基本计算器II.dll

@@ -10,5 +10,9 @@ namespace _14只出现一次的数字
         }
 
         //异或
+        public int MajorityElement(int[] nums)
+        {
+
+        }
     }
 }

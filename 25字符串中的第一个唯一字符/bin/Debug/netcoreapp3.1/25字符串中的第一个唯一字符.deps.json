@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "25字符串中的第一个唯一字符/1.0.0": {
+        "runtime": {
+          "25字符串中的第一个唯一字符.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "25字符串中的第一个唯一字符/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

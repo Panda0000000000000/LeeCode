@@ -1,5 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Net;
+using System.Net.Http.Headers;
 
 namespace 二叉树的中序遍历
 {
@@ -42,6 +44,27 @@ namespace 二叉树的中序遍历
                 resault.Add(root.val);
                 inorder(root.right, ref resault);
             }
+        }
+
+        public static IList<int> InorderTraversal_1_S_(TreeNode root)
+        {
+            IList<int> resault = new List<int>();
+
+            inorde(root, ref resault);
+
+            void inorde(TreeNode root,ref IList<int> resault)
+            {
+                if (root==null)
+                {
+                    return;
+                }
+
+                inorde(root.left, ref resault);
+                resault.Add(root.val);
+                inorde(root.right, ref resault);
+            }
+
+            return resault;
         }
 
         //迭代

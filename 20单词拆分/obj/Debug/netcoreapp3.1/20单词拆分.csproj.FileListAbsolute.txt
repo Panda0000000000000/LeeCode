@@ -11,3 +11,4 @@ F:\Unity\UnityProjects\LeeCode\20单词拆分\obj\Debug\netcoreapp3.1\20单词�
 F:\Unity\UnityProjects\LeeCode\20单词拆分\obj\Debug\netcoreapp3.1\20单词拆分.dll
 F:\Unity\UnityProjects\LeeCode\20单词拆分\obj\Debug\netcoreapp3.1\20单词拆分.pdb
 F:\Unity\UnityProjects\LeeCode\20单词拆分\obj\Debug\netcoreapp3.1\20单词拆分.genruntimeconfig.cache
+F:\Unity\UnityProjects\LeeCode\20单词拆分\obj\Debug\netcoreapp3.1\20单词拆分.GeneratedMSBuildEditorConfig.editorconfig
