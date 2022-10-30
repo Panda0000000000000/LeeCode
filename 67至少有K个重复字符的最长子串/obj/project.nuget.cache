@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XLmn4yumURlgUnOjqbLLTQxv3OGwmgknAvX8Cl3r//gPmmfzWgyTRixnTU1NoxDwtMEnMBHpXzWcaC/aRFtwrg==",
+  "dgSpecHash": "lqQr4lOkiG3DogB/4zj3wk9zG7tD4mKPekM2EtXjoGcVTcoJCARtQurqfVW1NxREYnhD6L2cq/glXl7rAuLzog==",
   "success": true,
-  "projectFilePath": "F:\\Unity\\UnityProjects\\LeeCode\\67至少有K个重复字符的最长子串\\67至少有K个重复字符的最长子串.csproj",
+  "projectFilePath": "/Users/mac/Projects/LeeCode/67至少有K个重复字符的最长子串/67至少有K个重复字符的最长子串.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+svwJKJW5Pnq1FRuPAEJIqQdWnK+3W/VRm5mLLkigDj+mM+/2FAXFZbt9VdIYdvUHB8zu+tb4Oq8GvtOfMlYQA==",
+  "dgSpecHash": "QtI1Ut6vbQEGcFuBbS5reILw6CIYYepnLLTxRxRnU30cQvq9JOkAIaeTEJXuNHhHN3If3WkGcXMJ4DjsQzcvGA==",
   "success": true,
-  "projectFilePath": "F:\\Unity\\UnityProjects\\LeeCode\\最长回文子串\\02最长回文子串.csproj",
+  "projectFilePath": "/Users/mac/Projects/LeeCode/最长回文子串/02最长回文子串.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

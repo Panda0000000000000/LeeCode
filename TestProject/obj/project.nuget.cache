@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "d15+VbCeYku+L1DC275NISKkxnNEdct9waDmApASjCV7o/TeuXQXDAvvbqjUKfC7J8JQat0bCXQWiaJ9jbX8yw==",
+  "dgSpecHash": "iB7CAtgdOKiNV4s2VUM2mtVF/IOVI+zsAWo0nHgY5g38knic+Mb+OjvWZZOIDBAHMyvVuK3EkgFhV9LDvhfE4w==",
   "success": true,
-  "projectFilePath": "F:\\Unity\\UnityProjects\\LeeCode\\TestProject\\TestProject.csproj",
+  "projectFilePath": "/Users/mac/Projects/LeeCode/TestProject/TestProject.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

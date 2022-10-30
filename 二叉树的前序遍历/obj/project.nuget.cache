@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "sqwhpXRVwXBLA9dMG7ZrqxZOMxElSuzO0t4ZDNKddID208GEu7FPbEh44FRyK5rhFT+GsGmhbmosquDqj4yuKA==",
+  "dgSpecHash": "ImdekZYLbjD5eTj6K+GiEamwpfxEYcHyuO9WDOdA3zVqhqHJwmQft/zJjMXKMGukXTXo8ItRRFELRGVq4up/Ow==",
   "success": true,
-  "projectFilePath": "F:\\Unity\\UnityProjects\\LeeCode\\二叉树的前序遍历\\05二叉树的前序遍历.csproj",
+  "projectFilePath": "/Users/mac/Projects/LeeCode/二叉树的前序遍历/05二叉树的前序遍历.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

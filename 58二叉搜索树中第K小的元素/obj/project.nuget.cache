@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BLZOk7C1mbcF/0ZoBzxT/LTaGANoMYCm4pTEPWjF3LIgQ5IEzQRvOTScXXli9YMoXX3QY0eRbI/zYM7Ivc6iWA==",
+  "dgSpecHash": "m4l+SueeYEsI+FpZaSr7jHSuCYSoKwV3HD6hxB1GYzmvK8z+xya2ZSHP3/wVPicLAAtetnwTyDcKg2bDy/YzJg==",
   "success": true,
-  "projectFilePath": "F:\\Unity\\UnityProjects\\LeeCode\\58二叉搜索树中第K小的元素\\58二叉搜索树中第K小的元素.csproj",
+  "projectFilePath": "/Users/mac/Projects/LeeCode/58二叉搜索树中第K小的元素/58二叉搜索树中第K小的元素.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bBG0px9UKykJqjpj0NSR1ToRlFFMeCOE1fGDOPzZT3vS16w54o4BZtss6RqkzRCSXYGzVdR0YLKvad29SQ/e3A==",
+  "dgSpecHash": "sQ8bRrcMg64MLgmujr1gA5NqTtwmxihJQnJJG0tvWAxA9sjaq1dXk+YStY3C6YLn1jIKex2tVz7feQiOwnkxtg==",
   "success": true,
-  "projectFilePath": "F:\\Unity\\UnityProjects\\LeeCode\\52回文链表\\52回文链表.csproj",
+  "projectFilePath": "/Users/mac/Projects/LeeCode/52回文链表/52回文链表.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "EZIe40DSOqTHHi6lzdptsHuQIapCaaYe7OJ4qswYSdF9nrYMhOqILVDrtcYgYdyENGawOWtCpKKoIpqSgQtoRg==",
+  "dgSpecHash": "nHNWub/cA+72OlOmN+D6a2Sa480h4kSViaGjL4NZbX26fxuan+kyV2R8+L+Gl+w+QG29VVVQ1GP7hRODKn5UAQ==",
   "success": true,
-  "projectFilePath": "F:\\Unity\\UnityProjects\\LeeCode\\71同构字符串\\71同构字符串.csproj",
+  "projectFilePath": "/Users/mac/Projects/LeeCode/71同构字符串/71同构字符串.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

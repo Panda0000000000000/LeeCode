@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dag/Qf5jwYNlo01cVacnoYgK5QiYyp94arbd1PyOhHxvRWvbzGXlji2Z4WDsKSlAkE8oD4hYMNzwib5TtE3aKA==",
+  "dgSpecHash": "RNBmgTvIalSINRcWR39wXQjGXta2f0hOxhBzrArsx1KYELY3rcmokNoz66NgmeoAKpmpZB7EPOAmmRl0ORMMGw==",
   "success": true,
-  "projectFilePath": "F:\\Unity\\UnityProjects\\LeeCode\\68二叉树中的最大路径和\\68二叉树中的最大路径和.csproj",
+  "projectFilePath": "/Users/mac/Projects/LeeCode/68二叉树中的最大路径和/68二叉树中的最大路径和.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

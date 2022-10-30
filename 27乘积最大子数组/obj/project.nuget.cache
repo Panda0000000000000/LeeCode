@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "V6msK1jfuF+eXvn4CuswTteXNn/MSHlEpl3SDZlGrfRdP7yPdHskkmqc2gHVOtRfjD7yTPsXzAC1IOFdQ1PJdg==",
+  "dgSpecHash": "xL5J4X5XQdWlk1F5HmpETS3Yao/bbNMQVBnyW20OOWQViYW7m4IKzg7TozvQlmTMrfPP0mjfVc3JPnpR1WmELQ==",
   "success": true,
-  "projectFilePath": "F:\\Unity\\UnityProjects\\LeeCode\\27乘积最大子数组\\27乘积最大子数组.csproj",
+  "projectFilePath": "/Users/mac/Projects/LeeCode/27乘积最大子数组/27乘积最大子数组.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

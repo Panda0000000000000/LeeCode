@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "A3os+UWUqWnj7XmKFbcSxsTAkdG9OmN5zyvEPfofN1jkBYMru6jkpbDATHXIsyUbRjbBqge0DoicL/qbyRtJCQ==",
+  "dgSpecHash": "Lxne1grtlbSUkpL5vB8Yt9AoItGrpOby6ZxGiYc+9vPa8K5QQF1s7AYUrXu4RKq72daR/SRQ/cMejCnHqMQQGw==",
   "success": true,
-  "projectFilePath": "F:\\Unity\\UnityProjects\\LeeCode\\二叉树的后序遍历\\06二叉树的后序遍历.csproj",
+  "projectFilePath": "/Users/mac/Projects/LeeCode/二叉树的后序遍历/06二叉树的后序遍历.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

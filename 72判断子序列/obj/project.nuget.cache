@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "s1ql8D0ijdPXo19/GJ4IgzSwTLlKkMUNU+Cdbuv6TNS+HWN3A8SBbWAR14DqQexXy3Mr8ZZA5ALCpUD+0IfyZw==",
+  "dgSpecHash": "Cpf5YRwQtaWxR2Zmog/IyIbeQPdT1ts2yqMoFu7aOdk5+4ziGrePWCoKH9hsKyamDSTVbbGWeHC1Xa9pwD6ihw==",
   "success": true,
-  "projectFilePath": "F:\\Unity\\UnityProjects\\LeeCode\\72判断子序列\\72判断子序列.csproj",
+  "projectFilePath": "/Users/mac/Projects/LeeCode/72判断子序列/72判断子序列.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

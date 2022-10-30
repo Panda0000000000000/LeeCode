@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KbO5fKD6XScaKMfXqoROri7AO7b8oW5Djo4bI5Gtl7iRHFr25o5tRxmHSPK0S8W9Ln821xSRvbRJSZk5cOsPEQ==",
+  "dgSpecHash": "ei3GiXmMrpOQ4G5FEdER/zVjuIRdnbrcr7oGPP2zd1ASzOgZzcu3mneTHPmPhF0L/BG9PNmC4LVcXnd6x3sIfA==",
   "success": true,
-  "projectFilePath": "F:\\Unity\\UnityProjects\\LeeCode\\19分割回文串\\19分割回文串.csproj",
+  "projectFilePath": "/Users/mac/Projects/LeeCode/19分割回文串/19分割回文串.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

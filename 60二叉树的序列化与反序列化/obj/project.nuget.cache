@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "20RKYYhled5u4WLkN/qyNKwrahfXhaSNFimHfDnlkmIA4eHITsrbdlmqT60ZAfCpRgInyQ2drs+9TZ4aETaKhQ==",
+  "dgSpecHash": "Ued2qIgglILH0Gd9qVaufmbLQ2nbGKSfn36nu8yTdfL0a1xWShhBWTy6Nl6F0iiITlbW6nz8Vw1G+bX5YkMBKA==",
   "success": true,
-  "projectFilePath": "F:\\Unity\\UnityProjects\\LeeCode\\60二叉树的序列化与反序列化\\60二叉树的序列化与反序列化.csproj",
+  "projectFilePath": "/Users/mac/Projects/LeeCode/60二叉树的序列化与反序列化/60二叉树的序列化与反序列化.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

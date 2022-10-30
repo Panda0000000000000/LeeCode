@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "T34priH1Cc25VjlGgF6KYovc6N8X39ypGRXpqbvbrE0gS0YyjKgUYKN5KNfFwWIfsZKKJDQoTmM84xr+q+7/5g==",
+  "dgSpecHash": "SyZNLqGYIto6hJAetUacL5HqHF22DBJsxOb/ChvHP+X6jWQ0gX8cDN+OB6WIG+9okuRQf/J7r05rfKtz/sGqAQ==",
   "success": true,
-  "projectFilePath": "F:\\Unity\\UnityProjects\\LeeCode\\34递增的三元子序列\\34递增的三元子序列.csproj",
+  "projectFilePath": "/Users/mac/Projects/LeeCode/34递增的三元子序列/34递增的三元子序列.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

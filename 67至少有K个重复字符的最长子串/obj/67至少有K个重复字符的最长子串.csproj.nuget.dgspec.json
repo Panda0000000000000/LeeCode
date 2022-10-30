@@ -1,30 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Unity\\UnityProjects\\LeeCode\\67至少有K个重复字符的最长子串\\67至少有K个重复字符的最长子串.csproj": {}
+    "/Users/mac/Projects/LeeCode/67至少有K个重复字符的最长子串/67至少有K个重复字符的最长子串.csproj": {}
   },
   "projects": {
-    "F:\\Unity\\UnityProjects\\LeeCode\\67至少有K个重复字符的最长子串\\67至少有K个重复字符的最长子串.csproj": {
+    "/Users/mac/Projects/LeeCode/67至少有K个重复字符的最长子串/67至少有K个重复字符的最长子串.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Unity\\UnityProjects\\LeeCode\\67至少有K个重复字符的最长子串\\67至少有K个重复字符的最长子串.csproj",
+        "projectUniqueName": "/Users/mac/Projects/LeeCode/67至少有K个重复字符的最长子串/67至少有K个重复字符的最长子串.csproj",
         "projectName": "67至少有K个重复字符的最长子串",
-        "projectPath": "F:\\Unity\\UnityProjects\\LeeCode\\67至少有K个重复字符的最长子串\\67至少有K个重复字符的最长子串.csproj",
-        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "F:\\Unity\\UnityProjects\\LeeCode\\67至少有K个重复字符的最长子串\\obj\\",
+        "projectPath": "/Users/mac/Projects/LeeCode/67至少有K个重复字符的最长子串/67至少有K个重复字符的最长子串.csproj",
+        "packagesPath": "/Users/mac/.nuget/packages/",
+        "outputPath": "/Users/mac/Projects/LeeCode/67至少有K个重复字符的最长子串/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/mac/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -58,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.402/RuntimeIdentifierGraph.json"
         }
       }
     }
